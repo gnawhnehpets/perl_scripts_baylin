@@ -1,0 +1,49 @@
+_methyl_date 08/09/2013 02:15:09 PM		52040005
+methylation450 IDAT combine_ycai_10302013.zip		10/30/2013 05:47:55 PM		309753351
+FinalReport_sample methylation profile_ycai_combine data_10302013 .zip		10/30/2013 05:45:04 PM		319944341
+Infinium450 7973201056 IDAT_Jianjun_05162012.zip		10/25/2013 08:50:47 AM		60644767
+04182013 John Wrangle Agilent GE.zip		10/18/2013 03:58:38 PM		196417076
+FinalReport_Sample Methylation Profile_JWrangle_08172012.zip		10/18/2013 03:48:59 PM		220873993
+8942297036.zip		10/18/2013 02:17:48 PM		103196947
+6929718111_12 methylation 450 K _IDAT file_NAhuja_10172013.zip		10/17/2013 11:51:40 AM		103257035
+7786923045_12 methylation 450K _IDAT file_RVatapalli_10172013.zip		10/17/2013 11:48:35 AM		102617667
+7786923055_12 methylation 450K _IDAT file_RVatapalli_10172013.zip		10/17/2013 11:44:51 AM		102695413
+HumanMethylation450_15017482_v.1.2.zip		09/16/2013 02:48:22 PM		65699126
+Two_Idate file _YYjang_R06C02_Red.zip.zip		08/09/2013 02:15:09 PM		52040005
+6 Methylation450 array _YYJang_08092013.zip		08/09/2013 02:14:30 PM		119555898
+07102013 Ray-Whay Yen Agilent GE.zip		07/10/2013 11:02:56 AM		196882547
+07102013 YZhang Agilent GE.zip		07/10/2013 10:57:59 AM		49635467
+yzhang et al idat file 07012013.zip		07/02/2013 08:24:36 AM		103061935
+FinalReport_methylation450k_kmitchell_sample methylation profile_07012013.zip		07/01/2013 03:02:49 PM		180965898
+FinalReport_methylation450k_mvaz_sample methylation profile_07012013.zip		07/01/2013 03:02:03 PM		110789898
+FinalReport_methylation450k_wxie_sample methylation profile_07012013.zip		07/01/2013 03:01:29 PM		110464883
+FinalReport_methylation450k_yzhang_sample methylation profile_07012013.zip		07/01/2013 03:00:56 PM		110220036
+Idte file _8942297116_YCai _04052013.zip		06/20/2013 10:36:51 AM		102943873
+Idat file _8942297056_for YCai_03132013.zip		06/20/2013 10:35:11 AM		99861283
+IDAT 8942351146_for YCai_05102013.zip		06/20/2013 10:33:08 AM		102612187
+9283265078.zip		06/12/2013 04:01:45 PM		103807672
+06042013 Khadijah Mitchell Agilent GE.zip		06/04/2013 11:56:27 AM		181188721
+06042013 Jianjun Luo Agilent GE.zip		06/04/2013 11:46:04 AM		16459550
+yzhang_methylation450 idat file_06282012.zip		05/28/2013 03:32:06 PM		103602616
+yzhang_idat file_05282013.zip		05/28/2013 01:38:53 PM		305191912
+Illumina Methylation450_YZhang_05082013.zip		05/08/2013 11:55:52 AM		133732258
+04192013 Jianjun Luo Agilent GE.zip		04/19/2013 11:26:45 AM		131365634
+04182013 Yi Cai Agilent GE.zip		04/18/2013 11:21:15 AM		65671665
+Illumina Methylation 450_YCai_04052013.zip		04/05/2013 03:32:47 PM		161949093
+30		03/22/2013 10:49:20 AM		59
+03152013 Yi Cai Agilent GE.zip		03/15/2013 11:03:06 AM		246464960
+Illumina Methylation 450_YZhang_03132013.zip		03/13/2013 03:25:39 PM		234181694
+Illumina _Methylation450_YCai_03132013.zip		03/13/2013 03:23:36 PM		157339128
+Methylation 450_YCai_02112013.zip		03/07/2013 09:48:02 AM		400897341
+03052013 Raywhay Chiu Yen Agilent GE.zip		03/05/2013 10:40:38 AM		131265852
+08092013 XiaoCui Agilent GE.zip		08/09/2013 03:16:13 PM		264004488
+Illumina Methylation450_RVatapalli_05082013.zip		05/08/2013 11:53:20 AM		191289745
+FinalReport_rajita_mouse ref8_sample probe profile_quantile normalized_04262013.zip		05/02/2013 10:41:21 AM		16925464
+FinalReport_Mouse Ref 8__RVatapalli_04252013.zip		04/29/2013 12:31:44 PM		13986440
+04232013 RVatapalli Agilent GE.zip		04/23/2013 11:50:54 AM		198894511
+30		03/22/2013 10:49:19 AM		66
+04182013 John Wrangle Agilent GE.zip		04/18/2013 11:19:03 AM		196417076
+FinalReport_Sample Methylation Profile_JWrangle_08172012.zip		03/28/2013 03:23:35 PM		220873993
+30		03/22/2013 10:49:19 AM		73
+09032013 HLi Agilent GE.zip		09/04/2013 12:43:53 PM		16622832
+05082013 HLi Agilent GE.zip		05/08/2013 10:29:38 AM		132867243

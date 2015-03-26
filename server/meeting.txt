@@ -1,0 +1,38 @@
+
+> review over what's been done
+(1) agilent data
+    - the organization of the agilent data was not too bad to work with. 1 partition contained all the raw data, while another partition contained all the metadata in excel files.
+    - all excel files were organized by pi and by submitter so it was organized very well. 
+    - each excel file represents a submission to the microarray core. so, for example... this contains pi information, submitter info, dates, sample names, description, and most importantly, the barcode of the array that the samples were run on.
+    - the script I wrote does several things:
+      (a) generates a zip file which contains the original excel file, an annotation file, and the raw data associated with the barcode found in the excel file
+      (b) annotation.txt 
+      (c) generates a single text file for each PI containing metadata for every single submission
+    - the script does this by opening & parsing each excel file, grabbing metadata that we're interested in, and then getting unique barcodes within the excel file to extract files from the other partition
+
+
+(2) illumina data
+    - like the agilent, there were two partitions. 1 partition contained the raw data and the other contained the excel files. Each partition was split further into the type of array used (expression, methylation27, methylation450)
+    - unlike agilent data, each excel file contained multiple PIs, multiple experiments, including those not from our group
+    - SHOW EXCEL
+    - the scripts I wrote do the following:
+      (a) script#1 parses through each excel file and filters out all entries made in your names, generating a huge text file for each pi.
+      (b) the script then goes through each of these text files and saves unique entries. brute force method so it's memory intensive
+      (c) next step is to go through each of these files and manually alter some of the entries.
+      one major issue I had to deal with was that the first version of the script I wrote couldn't extract information for all entries because some entries were formatted in a way where some of the data within the entry did not line up to the correct column.
+      (d) script#2 then goes throught each pi.txt and then splits it up by experiment. The second half of the script creates a zip file. So we end up with a zip file for each submission, which contains an excel file, an annotation txt file, and the raw illumina data.
+
+    - first step was to parse through each excel file, filter out all PIs from this group, and create an excel file containing only the data we were interested in. This was done by regex matching which perl is extremely useful for. 
+      	    - at this point we have a huge excel file 
+    - the data files were not organized anywhere close to the agilent data
+    - formatting different excel file to excel file ( Illumina GE array Info for NConnis_ 04052013_NEW )
+
+> issues 
+- methylation27 entries found in methylation450 xl files and vice versa
+- one of the reasons why this entire process took so long was because I couldn't recycle the script I wrote for the agilent data. So for the agilent data, it would find the cell with "PI Name" as a value, at which point we know that row is the header. Then we go through each cell in that header row and it matches a property we're interested in, then the script will parse down the column...
+
+> needed changes
+(1) standard to how information is being stored
+    - directory structure needs to be preserved
+    - integrity of the metadata needs to be maintained (formatting, missing information) 
+(2) the excel files need to be itnegrated with the already existing organizational structure that is present with the agilent data.

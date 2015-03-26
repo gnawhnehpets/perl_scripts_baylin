@@ -1,0 +1,10 @@
+#current.pl (il2c.pl)
+- generates full_annotation.txt
+- generates pi-full_annotation.txt
+
+#create_zip_file.pl
+- creates pi-submitter-data.txt
+- creates pi-submitter-date-barcode.txt (will extract unique barcodes from ^)
+- zip -> addFile(barcodes found in pi-submitter-date-barcode.txt)
+- 
+

@@ -1,0 +1,22 @@
+#Files to run script
+> /agilent backup/array worksheet/array CGH worksheet/CGH array user/
+  Baylin
+
+> /agilent backup/array worksheet/Baylin array project sample sheet/
+  /CGH/Baylin
+  /Chip-chip/Baylin
+  /Expression/everyone
+
+> /agilent backup/array worksheet/chip-chip/
+  Baylin
+
+> /agilent backup/array worksheet/miRNA expression array worksheet/
+  Barry Nelkin
+  Nita Ahuja
+  Robert Casero
+  Steve Baylin
+
+> /agilent backup/array worksheet/two color expression array/
+  Nita Ahuja
+  Cynthia Zahnow
+  

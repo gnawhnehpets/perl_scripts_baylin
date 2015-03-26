@@ -1,0 +1,29 @@
+> 20100222 miRNA array worksheet.xls
+COLMAX: 42
+ROWMAX: 9
+> All excel files have pi header
+> 20100222 miRNA array worksheet_formatted.xls
+USER:		Tikva Dadon
+PI:		Barry Nelkin
+SAMPLE_TYPE:	Cell
+SAMPLE_NAME:	PC3-control #2
+SAMPLE_NAME:	Pc3-control #4
+SAMPLE_NAME:	Pc3-control #5
+SAMPLE_NAME:	PC3-D.N. #2
+SAMPLE_NAME:	PC3-D.N. #6
+SAMPLE_NAME:	PC3-D.N. #15
+SAMPLE_NAME:	MIAPaCa-control
+SAMPLE_LABEL:	1
+SAMPLE_LABEL:	2
+SAMPLE_LABEL:	3
+SAMPLE_LABEL:	4
+SAMPLE_LABEL:	5
+SAMPLE_LABEL:	6
+SAMPLE_LABEL:	7
+DESCRIPTION:	Prostate cancer -Human stably transfeced
+DESCRIPTION:	Pancreas cancer
+SUBMIT:		12-16-2009
+SHIPDATE:	12-16-2009
+USEDATE:	02-22-2010
+ARRAYTYPE:	Human 8x15K
+BARCODE:	252182711742
