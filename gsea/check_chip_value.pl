@@ -1,9 +1,9 @@
 #!usr/bin/perl
 
-######################################################################
-#Using raw .txt output, this script will parse the file to see whether
-#the output is from Agilent/Illumina/Affy/etc. by regex-ing the motif
-######################################################################
+##########
+# Purpose:
+##########
+#Using raw .txt output, this script will parse the file to see whether the output is from Agilent/Illumina/Affy/etc. by regex-ing the motif
 
 use strict;
 use warnings;
